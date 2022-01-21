@@ -1,1 +1,1 @@
-Basic calculator wriiten in C#
+Basic calculator written in C#
